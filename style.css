@@ -1,15 +1,26 @@
+body{
+	background-color:#222;
+	color:#eee;
+}
 table{
 	border:1px solid #ccc;
 	border-collapse:collapse;
 	font-size:9pt;
+	margin:auto;
 }
 td{
 	border:1px solid #ccc;
 }
+.statistics{
+	text-align:center;
+}
 .slicer{
 	background-color:#444;
-	color:#fff;
 	text-align:center;
+}
+.lamper{
+	background-color:#ddd;
+	color:#444;
 }
 .bp{
 	text-align:right;
