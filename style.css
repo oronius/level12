@@ -1,0 +1,40 @@
+table{
+	border:1px solid #ccc;
+	border-collapse:collapse;
+	font-size:9pt;
+}
+td{
+	border:1px solid #ccc;
+}
+.slicer{
+	background-color:#444;
+	color:#fff;
+	text-align:center;
+}
+.bp{
+	text-align:right;
+}
+.FC{
+	background-color:blue;
+}
+.EXH{
+	background-color:yellow;
+}
+.HC{
+	background-color:red;
+}
+.CL{
+	background-color:aqua;
+}
+.EC{
+	background-color:gold;
+}
+.ASSIST{
+	background-color:pink;
+}
+.FAILED{
+	background-color:gray;
+}
+.NOPLAY{
+	background-color:black;
+}
