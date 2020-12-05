@@ -5,25 +5,26 @@ body{
 table{
 	border:1px solid #ccc;
 	border-collapse:collapse;
-	font-size:9pt;
 	margin:auto;
 }
 td{
 	border:1px solid #ccc;
+	font-size:9pt;
+	padding-left:5px;
+	padding-right:5px;
 }
-.statistics{
-	text-align:center;
+td:nth-child(2){
+	color:black
+}
+td:nth-child(3){
+	text-align:right
+}
+td:nth-child(4){
+	text-align:right
 }
 .slicer{
 	background-color:#444;
 	text-align:center;
-}
-.lamper{
-	background-color:#ddd;
-	color:#444;
-}
-.bp{
-	text-align:right;
 }
 .FC{
 	background-color:blue;
@@ -48,4 +49,16 @@ td{
 }
 .NOPLAY{
 	background-color:black;
+}
+.NORMAL{
+	background-color:#73C2FB
+}
+.HYPER{
+	background-color:#eeee77
+}
+.ANOTHER{
+	background-color:#FB607F
+}
+.LEGGENDARIA{
+	background-color:#a57ecc
 }
