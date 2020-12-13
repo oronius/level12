@@ -36,7 +36,7 @@ td:nth-child(4){
 	background-color:white;
 }
 .CL{
-	background-color:red;
+	background-color:dodgerblue;
 }
 .EC{
 	background-color:gold;
@@ -45,7 +45,7 @@ td:nth-child(4){
 	background-color:pink;
 }
 .FAILED{
-	background-color:gray;
+	background-color:red;
 }
 .NOPLAY{
 	background-color:black;
